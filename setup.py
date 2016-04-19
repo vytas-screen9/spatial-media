@@ -24,7 +24,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name='spatialmedia',
-    version='0.0.1',
+    version='2.0.0',
     description=('A collection of specifications and tools '
                  'for 360° video and spatial audio'),
     long_description=long_description,
